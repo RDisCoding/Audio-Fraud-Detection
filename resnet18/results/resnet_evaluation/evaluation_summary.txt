@@ -1,0 +1,12 @@
+ResNet Audio Fraud Detection - Test Results
+==================================================
+
+Test Accuracy: 87.1170%
+Test Loss: 0.311796
+ROC AUC Score: 0.946591
+Average Precision: 0.948217
+
+Classification Report:
+------------------------------
+Macro Average F1: 0.8711
+Weighted Average F1: 0.8711
